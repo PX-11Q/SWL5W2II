@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Hello from Jeff</h1>
+    <p> Welcome to Jeff McHale's website. </p>
 </body>
 </html>
